@@ -25,4 +25,4 @@ the caller does not provide an argument for it. You also pointed out
 that the function returns two values — message and status — separated 
 by a comma, which means the caller can receive and store them in two 
 separate variables. Well done — a thorough and precise explanation.
-<img width="2533" height="683" alt="image" src="https://github.com/user-attachments/assets/ef3352bb-fb23-470b-9d3b-665e93d46789" />
+<img width="2533" height="683" alt="image" src="https://github.com/user-attachments/assets/9c8fa494-ebde-47c7-b670-00fec7eedbd0" />
