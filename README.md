@@ -1,7 +1,5 @@
 # Boot.dev - Back-end Developer Path
 
-Year 13 student teaching myself backend development.
-
 My progress through Boot.dev's full Back-end Developer Path.
 
 Each folder contains some of my work from that course, a bit of 
